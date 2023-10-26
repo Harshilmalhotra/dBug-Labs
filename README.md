@@ -1,4 +1,5 @@
 # dBug-Labs IoT Task
+<img src="https://github.com/Harshilmalhotra/dBug-Labs/blob/main/Connections.png" height=40% width=70%>
 
 ## Problem Statement
 Home Automation
